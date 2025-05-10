@@ -44,8 +44,8 @@ pip install rich
 You can download the tool by cloning this repository:
 
 ```bash
-git clone https://github.com/rkstudio585/ddos-tool
-cd ddos-tool
+git clone https://github.com/arashhacker32/DDOSATTACK
+cd DDOSATTACK
 ```
 
 ### 2. **Running the Script**
