@@ -7,7 +7,7 @@
 
 ## Overview
 
-ایدی ما در تلگرام : @arashhacker32
+ایدی ما در تلگرام : @arashhacker32                                                                                                                                                
 This Python-based DDoS (Distributed Denial of Service) attacking tool is designed for Termux users to perform stress tests on networks or websites. The tool allows users to launch multiple types of attacks like TCP, UDP, HTTP, and HTTPS floods, with additional features like random port selection, custom payloads, logging, and domain resolution.
 
 ### **Disclaimer**
